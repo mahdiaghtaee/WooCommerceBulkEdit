@@ -1,2 +1,2 @@
 # WooCommerceBulkEdit
-WooCommerce Bulk Edit is a powerful way to update your WooCommerce product catalog.
+This lightweight plugin enhances the WooCommerce bulk edit functionality, allowing you to easily set the stock quantity of all variations for a selected variable product to zero in just a few clicks. 
